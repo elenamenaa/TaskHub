@@ -14,3 +14,4 @@ start http://127.0.0.1:8000
  
 echo Todo listo. No cierres las ventanas de comandos si quieres seguir trabajando.
 pause
+asasas
